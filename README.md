@@ -3,7 +3,7 @@
 ## Trivia: _The Mandalorian_
 
 1. What is Baby Yoda’s real name?
-<Answer>
+Grogu
 
 2. What is Mando’s real name?
 <Answer>
