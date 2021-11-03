@@ -6,7 +6,7 @@
 <Answer>
 
 2. What is Mando’s real name?
-<Answer>
+Din Djarin
 
 3. What's the name of Boba Fett's ship?
 <Answer>
